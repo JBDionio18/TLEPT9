@@ -33,7 +33,7 @@
 <font color= white face= verdana> To watch a video about HOPE during the Pandemic click
 <a href="https://www.youtube.com/watch?v=z9D2EODjwQw&feature=share&fbclid=IwAR0LGhQ9o56WlV3fJVyOjDXQrdAIA_E0MKVJ-b8Lf73GNf-m6FSWg7TbY2Y"> Here </a> <br>
 <font color= white face= verdana> To learn more about the spread of COVID:19 to different countries click
-<a href="LastTables.html"> Here </a> <br>
+<a href="LastTabless.html"> Here </a> <br>
 
 
 </body>
