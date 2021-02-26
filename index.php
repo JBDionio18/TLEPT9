@@ -21,19 +21,19 @@
  <font color= grey size= 4 , face=  Arial> <b>TAKES AWAY THE SUFFERING" </b></font>
 <br>
 <br>
-<img src="C:\Users\ACER\Documents\week3/covid.jpg" width = "500", length = "400"> </img> 
+<img src="covid.jpg" width = "500", length = "400"> </img> 
 <br>
 <br>
 <font color= yellow , size= 15 , face= Courier New> <b> "TODAY LET'S MAKE A DIFFERENCE" </b>
 <br>
 <font color= white face= verdana> To learn more about COVID:19 click
-<a href="file:///C:/Users/ACER/Downloads/COVIDPTss.html"> Here </a> <br>
+<a href="COVIDPTss.html"> Here </a> <br>
 <font color= white face= verdana> To watch a video about COVID:19 click
 <a href="https://www.youtube.com/watch?v=i0ZabxXmH4Y"> Here </a> <br>
 <font color= white face= verdana> To watch a video about HOPE during the Pandemic click
 <a href="https://www.youtube.com/watch?v=z9D2EODjwQw&feature=share&fbclid=IwAR0LGhQ9o56WlV3fJVyOjDXQrdAIA_E0MKVJ-b8Lf73GNf-m6FSWg7TbY2Y"> Here </a> <br>
 <font color= white face= verdana> To learn more about the spread of COVID:19 to different countries click
-<a href="file:///C:/Users/ACER/Downloads/LastTables.html"> Here </a> <br>
+<a href="LastTables.html"> Here </a> <br>
 
 
 </body>
